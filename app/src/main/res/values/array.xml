@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="show_option">
+        <item>조회수</item>
+        <item>구독수</item>
+        <item>팔로워</item>
+    </string-array>
+</resources>
